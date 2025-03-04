@@ -1,0 +1,310 @@
+Examining Science and Engineering Students' Attitudes Towards Computer Science
+SURVEY RESPONSE STATISTICS
+
+NUMBER OF RESPONDENTS: 0
+
+FOR EACH QUESTION BELOW, RELATIVE PERCENTUAL FREQUENCIES ARE COMPUTED FOR EACH LEVEL OF AGREEMENT
+
+C1. I am comfortable with learning computing concepts.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+C2. I have little self-confidence when it comes to computing courses.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+C3. I do not think that I can learn to understand computing concepts.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+C4. I can learn to understand computing concepts.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+C6. I can achieve good grades (C or better) in computing courses.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+C7. I am confident that I can solve problems by using computer applications.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+C9. I am not comfortable with learning computing concepts.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+C10. I doubt that I can solve problems by using computer applications.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I1. I would not take additional computer science courses if I were given the opportunity.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I2. I think computer science is boring.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I3. I hope that my future career will require the use of computer science concepts.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I4. The challenge of solving problems using computer science does not appeal to me.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I5. I like to use computer science to solve problems.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I6. I do not like using computer science to solve problems.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I7. The challenge of solving problems using computer science appeals to me.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I8. I hope that I can find a career that does not require the use of computer science concepts.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I9. I think computer science is interesting.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+I10. I would voluntarily take additional computer science courses if I were given the opportunity.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G1. I doubt that a woman could excel in computing courses.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G2. Men are more capable than women at solving computing problems.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G3. Computing is an appropriate subject for both men and women to study.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G8. Women and men can both excel in careers that involve computing.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G10. It is not appropriate for women to study computing.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G11. Men produce higher quality work in computing than women.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G12. Men are more likely to excel in careers that involve computing than women are.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G13. Women produce the same quality work in computing as men.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G14. Men and women are equally capable of solving computing problems.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+G15. Men and women can both excel in computing courses.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+U1. Developing computing skills will not play a role in helping me achieve my career goals.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+U2. Knowledge of computing will allow me to secure a good job.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+U4. My career goals do not require that I learn computing skills.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+U5. Developing computing skills will be important to my career goals.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+U6. Knowledge of computing skills will not help me secure a good job.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+U8. I expect that learning to use computing skills will help me achieve my career goals.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+P2. A student who performs well in computer science will probably not have a life outside of computers.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+P4. A student who performs well in computer science is likely to have a life outside of computers.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+P6. Students who are skilled at computer science are less popular than other students.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree
+
+P8. Students who are skilled at computer science are just as popular as other students.
+0.00: fully disagree
+0.00: disagree
+0.00: partially disagree
+0.00: partially agree
+0.00: agree
+0.00: fully agree

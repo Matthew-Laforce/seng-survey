@@ -1,0 +1,12 @@
+Examining Science and Engineering Students' Attitudes Towards Computer Science
+SURVEY RESPONSE STATISTICS
+
+NUMBER OF RESPONDENTS: 5
+
+SCORES FOR ALL THE RESPONDENTS
+
+C:5.62,I:4.70,G:3.90,U:4.17,P:4.50
+C:6.00,I:6.00,G:6.00,U:6.00,P:6.00
+C:2.50,I:1.30,G:3.60,U:3.00,P:1.75
+C:3.62,I:3.20,G:6.00,U:3.50,P:3.50
+C:2.88,I:1.80,G:4.30,U:4.00,P:5.00
